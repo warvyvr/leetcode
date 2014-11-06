@@ -33,8 +33,6 @@ class Solution:
           pre_number = number
           counting = 1
 
-        if (result == [2,1]):
-          y= 100
         n -= 1
         seq = result
         result = []
